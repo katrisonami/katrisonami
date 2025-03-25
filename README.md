@@ -5,7 +5,7 @@
 Me chamo Kathlein Cristina, tenho 22 anos e sou natural de São Paulo. Sou formada em dois cursos técnicos pela Etec Ary Fossen, Análise e Desenvolvimento de Sistemas e Administração. Atualmente faço graduação em Administração e ums pós para ínicio em Ago/2026. Sou curiosa e com isso aprendo todo dia algo novo com a técnologia.
 
 ---
-## 🌐 Socials:
+## 🌐 Sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kathlein-cristina/) 
 
 
@@ -61,26 +61,12 @@ Me chamo Kathlein Cristina, tenho 22 anos e sou natural de São Paulo. Sou forma
 />
 
 <br/>
-<br/>
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=katrisonami&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=katrisonami&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+![](https://github-readme-stats.vercel.app/api?username=katrisonami&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=katrisonami&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=katrisonami&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </p>
 
-
+![Snake animation](https://github.com/katrisonami)
