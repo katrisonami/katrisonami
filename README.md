@@ -69,7 +69,8 @@ Me chamo Kathlein Cristina, tenho 22 anos e sou natural de São Paulo. Sou forma
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=katrisonami&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </p>
 
+
 ### 🐍 Contribuições
-![Snake animation](https://raw.githubusercontent.com/katrisonami/output/github-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/katrisonami/output/github-snake-dark.svg)
 
 
