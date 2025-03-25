@@ -1,6 +1,6 @@
 #  Kathlein Cristina Rodrigues
 
-**`Entusiata da programação`**
+**`Entusiasta da programação`**
 
 Me chamo Kathlein Cristina, tenho 22 anos e sou natural de São Paulo. Sou formada em dois cursos técnicos pela Etec Ary Fossen, Análise e Desenvolvimento de Sistemas e Administração. Atualmente faço graduação em Administração e ums pós para ínicio em Ago/2026. Sou curiosa e com isso aprendo todo dia algo novo com a técnologia.
 
