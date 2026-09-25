@@ -2,7 +2,7 @@
 
 **`Entusiasta da programação`**
 
-Me chamo Kathlein Cristina, tenho 23 anos e sou estudante autodidata de ciência de dados. Sou curiosa e com isso aprendo todo dia algo novo com a técnologia.
+Me chamo Kathlein Cristina, tenho 23 anos e sou estudante autodidata de ciência de dados. Sou curiosa e com isso aprendo todo dia algo novo com a tecnologia.
 
 ---
 ## 🌐 Sociais:
